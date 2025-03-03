@@ -24,8 +24,7 @@ Deployment phase where the software is realesed to users or customers to use in 
 Maintenance phase involving providing ongoing support, updates, and enhancements to the software after deployment over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Traditional software development followed rigid processes like the 
-Waterfall methodologies is where projects are planned upfront and follows a linear and sequential path with fixed phases e.g., requirements, design, implementation flowing downwards like a waterfall while Agile Methodologies are more flexible with projects following and iterative development enabling for collaboration and ease to adapt to changing reuirementts. 
+Waterfall methodologies is where projects are planned upfront and follows a linear and sequential path with fixed phases e.g., requirements, design, implementation flowing downwards like a waterfall while Agile Methodologies are more flexible with projects following and iterative development enabling for collaboration and ease to adapt to changing requirements. 
 A waterfall methodologies would be appropriate for projects that require extensive and detailed upfront documentation and have repeatable, predictable processes. It is especially effective for projects with well-defined deliverables where all the major project constraints are well understood and documented. 
 Agile methodologies would be appropriate for complex evolving, and fast-changing projects which incorporate customer feedback throughout the process.
 
